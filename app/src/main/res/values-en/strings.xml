@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Submisi3MADE</string>
+
+    <string name="tab_movies">Movies</string>
+    <string name="tab_tvshow">Tv Show</string>
+
+    <string name="movies_name">Title:</string>
+    <string name="description">Overview</string>
+    <string name="year">Release Date:</string>
+    <string name="average">Average:</string>
+    <string name="setings">Settings</string>
+</resources>

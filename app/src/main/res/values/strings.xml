@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Submisi3MADE</string>
+
+    <string name="tab_movies">Film</string>
+    <string name="tab_tvshow">Acara TV</string>
+
+    <string name="movies_name">Judul :</string>
+    <string name="description">Ikhtisar</string>
+    <string name="year">Tanggal Rilis:</string>
+    <string name="average">Rata-rata:</string>
+    <string name="setings">Pengaturan</string>
+</resources>
